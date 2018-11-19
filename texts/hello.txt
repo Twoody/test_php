@@ -1,0 +1,5 @@
+Hello little developer,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;This is a scripted messages in `./texts/hellow.txt` purposed to show us importing text files.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Pleaese see the README.txt at:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Twoody/test_php/blob/master/README.txt">My Github</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, be sure to read each README.txt for each test.<br/>
