@@ -27,7 +27,11 @@ Purpose:
 		$ret .= ">\n";
 		$ret .= $s."</p>\n";
 		return $ret;
-	}//end makeP
+	}//end makeP()
+	function tab(){
+		//Return HTML tab; TODO: param for length of tab;
+		return "&nbsp;&nbsp;&nbsp;&nbsp;";
+	}//end tab()
 
 ?>
 
